@@ -1,3 +1,3 @@
-import photo from "images/photo.svg";
+import photo from 'images/photo.svg'
 
-console.log(photo, "Here baby");
+console.log(photo, 'Here baby')
